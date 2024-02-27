@@ -1,0 +1,32 @@
+
+.welcome{
+  border-radius: 20px;
+}
+
+.card{
+  background-color: #293041;
+  color: white;
+}
+
+body{
+  background-color: #222636;
+}
+
+.item-name {
+  text-transform:uppercase;
+}
+
+.container{
+  color: white;
+  background-color: #293041;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+}
+
+.fa-user{
+  color: #183153;
+}
+
+.nav-link:hover{
+  color: white;
+}
